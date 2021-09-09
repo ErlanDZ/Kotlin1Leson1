@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin1Leson1</string>
+    <string name="go_second_activity">GO SECOND ACTIVITY</string>
+    <string name="hint_text">Ввод текста</string>
+</resources>
